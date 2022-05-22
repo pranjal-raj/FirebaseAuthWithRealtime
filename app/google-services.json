@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "526225621781",
+    "firebase_url": "https://fir-tutorial-213dd-default-rtdb.firebaseio.com",
+    "project_id": "fir-tutorial-213dd",
+    "storage_bucket": "fir-tutorial-213dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526225621781:android:62c5732b0fb71ebbb59f1c",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthwithrealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526225621781-a2m7a5l2l4qi6pvcb3oc433epta673qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBCi8H1OO3Tsmdd1dq_5GUQMiGmJW3waA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526225621781-a2m7a5l2l4qi6pvcb3oc433epta673qp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526225621781:android:71ba87bf7cf26988b59f1c",
+        "android_client_info": {
+          "package_name": "com.example.firebasefirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526225621781-a2m7a5l2l4qi6pvcb3oc433epta673qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBCi8H1OO3Tsmdd1dq_5GUQMiGmJW3waA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526225621781-a2m7a5l2l4qi6pvcb3oc433epta673qp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526225621781:android:e9b46aad2d7f0ed7b59f1c",
+        "android_client_info": {
+          "package_name": "com.example.firebaserealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526225621781-a2m7a5l2l4qi6pvcb3oc433epta673qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBCi8H1OO3Tsmdd1dq_5GUQMiGmJW3waA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526225621781-a2m7a5l2l4qi6pvcb3oc433epta673qp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
